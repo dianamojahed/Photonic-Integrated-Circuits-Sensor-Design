@@ -1,0 +1,1 @@
+Please note that the PDK components used in the PIC2 course video have been replaced for standard "ideal" elements.

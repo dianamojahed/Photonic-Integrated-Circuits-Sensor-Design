@@ -1,0 +1,18 @@
+TM_keff=6.5951e-5; #k_Eff of TM0 mode with water background and no perturbation
+TM_pert=0.0049968;  #k_Eff of TM0 mode with cladding perturbation
+TM_surf=0.0005386;   #k_Eff of TM0 mode with surface perturbation
+
+k_water=0.00013;
+k_pert=0.01013;
+
+dkeff_clad=abs(TM_pert-TM_keff);
+dkeff_surf=abs(TM_surf-TM_keff);
+
+dk_water=abs(k_pert-k_water);
+
+conf_factor_clad=dkeff_clad/dk_water;
+conf_factor_surf=dkeff_surf/dk_water;
+
+FOM=conf_factor_surf/conf_factor_clad;
+
+

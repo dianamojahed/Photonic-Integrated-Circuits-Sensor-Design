@@ -1,0 +1,23 @@
+Ansys Lumerical 2022 R2.4 Finite Difference Eigenmode Solver Version 7.20.3216 (Windows 64bit)
+ expires (month/day/year): 12/21/2023
+using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
+license host: 1055@10.229.42.140
+current time: Sat Jan 28 14:32:28 2023
+Running on host: ENGRWKKEB1238
+Running lms file: C:\Program Files\Lumerical\v222\bin\fd-engine-msmpi.exe -t 8 -remote -hide -shared-solve-license QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT08QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT48SUQ+MjRlZDUxYmUtM2U0MS00MzFhLTkwY2UtMmMxODgyOTAxZTNiPC9JRD48VFlQRT5BUFBfREVGSU5FRDwvVFlQRT48TkFNRT5sdW1fc3RhbmRhcmRfc29sdmVfc2hhcmU8L05BTUU+PEhBTkRMRVI+NjQzNzdARU5HUldLS0VCMTIzOC5BRC5VTUQuRURVPC9IQU5ETEVSPjwvQU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT4K G:/My Drive/Service/eDX_MIT_UMD/Lectures/3. Refractive index sensor desing/width_sweep_width_sweep/width_sweep_12.lms
+Running MODE Simulation
+Starting meshing
+Simulation size in gridpoints: 478 x 377 x 1
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 478 x 377 x 1
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.015625 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 478 x 377 x 1
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.015625 seconds of CPU time
